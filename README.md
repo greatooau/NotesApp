@@ -1,2 +1,2 @@
 # NotesApp
-**Practice app to improve my react && TypeScript insights.**
+**Practice app to improve my React, Docker && TypeScript insights.**
